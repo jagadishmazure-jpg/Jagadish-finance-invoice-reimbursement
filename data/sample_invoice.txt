@@ -1,0 +1,11 @@
+VENDOR: Harbor Office Supply
+INVOICE: INV-1001
+DATE: 2026-10-05
+EMPLOYEE: Alex Rivera
+CATEGORY: office
+LINE: Printer paper | 2 | 12.50 | 25.00
+LINE: Desk organizer | 1 | 40.00 | 40.00
+SUBTOTAL: 65.00
+TAX: 5.20
+TAX_RATE: 0.08
+TOTAL: 70.20

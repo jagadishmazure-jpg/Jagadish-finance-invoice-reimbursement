@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "invoice-reimbursement"
+version = "0.1.0"
+description = "Automated invoice reimbursement with auditable, rule-cited decisions (synthetic data only)"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+include = ["invoice_reimbursement*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
